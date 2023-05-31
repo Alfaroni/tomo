@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "c35b349cfc966694d148a6653e715cebd43a1e6fcc01b3990121c31ab69af96a"
+build_start_time: [1685500017, 355212000]
+build_end_time: [1685500017, 406494000]
+inputs:
+  "/Users/klyoffice/Documents/Flutter/tomo/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1685499995, 412509232]
+  "/Users/klyoffice/Documents/Flutter/tomo/macos/Runner/AppDelegate.swift": !private [1672105283, 642581463]
+  "/Users/klyoffice/Documents/Flutter/tomo/macos/Runner/MainFlutterWindow.swift": !private [1672105283, 643863916]
